@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>terminal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="terminal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,3.19744231e-14 L13,2 L15,2 L15,8 L13,8 L12,16 L4,16 L3,8 L1,8 L1,2 L3,2 L4,3.19744231e-14 L12,3.19744231e-14 Z M11.992,7.999 L4.007,7.999 L4.883,15.001 L11.116,15 L11.992,7.999 Z M6,7 L6,3 L4,3 L4,7 L6,7 Z M13,3 L13,7 L13.999,7.001 L13.999,3.001 L13,3 Z M9,3 L7,3 L7,7 L9,7 L9,3 Z M12,3 L10,3 L10,7 L12,7 L12,3 Z M11.382,1.001 L4.618,1.001 L4.118,1.999 L11.881,1.999 L11.382,1.001 Z M3,3 L2,3.001 L2,7.001 L3,7 L3,3 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

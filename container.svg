@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>container</title>
+    <desc>Created with Sketch.</desc>
+    <g id="container" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,3 L0,3 L0,13 L16,13 L16,3 Z M15,4 L15,12 L1,12 L1,4 L15,4 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <polygon id="Line-4-Copy-2" fill="#000000" fill-rule="nonzero" points="10 5 10 11 9 11 9 5"></polygon>
+        <polygon id="Line-4-Copy-4" fill="#000000" fill-rule="nonzero" points="13 5 13 11 12 11 12 5"></polygon>
+        <polygon id="Line-4" fill="#000000" fill-rule="nonzero" points="7 5 7 11 6 11 6 5"></polygon>
+        <polygon id="Line-4-Copy" fill="#000000" fill-rule="nonzero" points="4 5 4 11 3 11 3 5"></polygon>
+    </g>
+</svg>
